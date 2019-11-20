@@ -1,8 +1,8 @@
 ## Research blog
 
-You can use the [editor on GitHub](https://github.com/emiliorevelo/research-blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my personal blog where I publish my research about penetration testing, red team, reverse engineering, etc. This blog is made to share information to whom it may be useful to improve your security skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the [editor on GitHub](https://github.com/emiliorevelo/research-blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files..
 
 ### Markdown
 
